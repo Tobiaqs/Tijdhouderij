@@ -3,7 +3,7 @@
   "version": "1.1.1",
   "description": "Tijdhouderij: app (prototype) for keeping time without user interaction, using proximity beacons.",
   "scripts": {
-  	"postinstall": "bower install"
+    "postinstall": "bower install"
   },
   "dependencies": {
     "gulp": "^3.5.6",

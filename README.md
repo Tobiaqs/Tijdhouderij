@@ -31,3 +31,4 @@ Now you can open platforms/ios/VAA Maps/VAA Maps.xcodeproj in XCode.
 
 ## Notes
 - Do not commit platform.json with a "cordovaPlatforms" value other than [].
+- The www/lib folder will contain a lot of files that the app doesn't require, such as source files, docs and examples of libraries. It's highly recommended you remove these before building the app because not doing so will cause a massive increase in app size.
