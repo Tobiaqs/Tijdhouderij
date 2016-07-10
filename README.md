@@ -27,7 +27,7 @@ Installs Node.JS libraries, and frontend libraries using Bower.
 - `ionic resources`
 - `ionic state restore`
 
-Now you can open platforms/ios/VAA Maps/VAA Maps.xcodeproj in XCode.
+Now you can open platforms/ios/Tijdhouderij/Tijdhouderij.xcodeproj in XCode.
 
 ## Notes
 - Do not commit platform.json with a "cordovaPlatforms" value other than [].
